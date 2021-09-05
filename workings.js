@@ -102,7 +102,7 @@ function frequencyCounter (textObject) {
 //totalCharacters(t)
 //totalSentences(t)
 //totalParagraphs(t)
-frequencyCounter(t)
+//frequencyCounter(t)
 
 module.exports = {totalWords, totalCharacters, totalSentences, totalParagraphs,
      frequencyCounter}
